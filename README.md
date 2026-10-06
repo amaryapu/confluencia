@@ -12,6 +12,8 @@
 
 > ## **[`A CONFLUÊNCIA`](CONFLUENCIA.md)** — **a teoria como especificação técnica.** De `fluere`: `in-`, `con-`, `des-`. A física da operação (**Landauer 1961**, **Bennett**, **Bérut 2012**), o teste da função objetivo, as três séries da margem do manuscrito, e o que ela exige de uma AGI.
 
+> ## **[`A CONFLUÊNCIA EM SI`](EM-SI.md)** — **a auditoria da própria teoria pelo próprio critério.** Oito confluências que se sustentam, **oito rejeitadas — cinco delas convenientes à tese.** Com **Turing e os 43 anos até o peixe**, e **o vão de Michelangelo, que é obrigatório.**
+
 > ## **[`O ENSINO`](ENSINO.md)** — **a confluência como cerne do ensino**, e por que de mão única nada é medido. **Feynman no CBPF, 1951–52**; a técnica como **instrumento de medida apontado para quem ensina**; e os dois pés da tese: **relacional** (`RQM`, Rovelli 1996) e **racional**. Com o caso literal: **Döbereiner, a bactéria e a raiz.**
 
 > ## **[`REGISTRUM`](REGISTRUM.md)** — **quem queimou os livros escreveu a chave para lê-los.** **Maní, 1562** · **Knorozov, 1952** · e o decreto de **Lima, 1583**, que **manteve a tecnologia e trocou o conteúdo.**
