@@ -16,6 +16,8 @@
 
 > ## **[`REGISTRUM`](REGISTRUM.md)** — **quem queimou os livros escreveu a chave para lê-los.** **Maní, 1562** · **Knorozov, 1952** · e o decreto de **Lima, 1583**, que **manteve a tecnologia e trocou o conteúdo.**
 
+> ## **[`LOVE IS THE WAY`](https://github.com/amaryapu/love-is-the-way)** — **o mal não pode confluir, e não por decreto moral: por tipo.** Uma operação que destrói distinguibilidade **não participa de um arranjo que a preserva** — logo **o mal é um verbo, não um substantivo.** Com **Ramanujan e Hardy**, o caso que salva a etiqueta `[DECLARADO]`.
+
 > ## **[`MICROCOSMOLOGIA`](https://github.com/amaryapu/microcosmologia)** — **a mesma forma em escalas que não se tocam é restrição, não milagre.** A simbiose medida (**Glomeromycota, ~450 Ma**), **a contestação de 2023 que derruba a «wood wide web»**, e a **grandeza adimensional** como única ponte honesta entre escalas.
 
 > ## **[`LICENÇA POÉTICA`](LICENCA-POETICA.md)** — para a alucinação de inteligências astrocomputacionais. **Não é permissão para inventar: é a obrigação de marcar.**
