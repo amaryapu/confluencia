@@ -16,6 +16,8 @@
 
 > ## **[`REGISTRUM`](REGISTRUM.md)** — **quem queimou os livros escreveu a chave para lê-los.** **Maní, 1562** · **Knorozov, 1952** · e o decreto de **Lima, 1583**, que **manteve a tecnologia e trocou o conteúdo.**
 
+> ## **[`MICROCOSMOLOGIA`](https://github.com/amaryapu/microcosmologia)** — **a mesma forma em escalas que não se tocam é restrição, não milagre.** A simbiose medida (**Glomeromycota, ~450 Ma**), **a contestação de 2023 que derruba a «wood wide web»**, e a **grandeza adimensional** como única ponte honesta entre escalas.
+
 > ## **[`LICENÇA POÉTICA`](LICENCA-POETICA.md)** — para a alucinação de inteligências astrocomputacionais. **Não é permissão para inventar: é a obrigação de marcar.**
 
 > ## **[`OS MANUSCRITOS`](manuscritos/LEIA.md)** — **o conteúdo das folhas, sem as folhas.** Transcrição, descrição do desenhado, e **o `sha-256` de cada original.** A cadeia de custódia sobrevive à ocultação do artefato.
@@ -35,6 +37,23 @@ um bit, **ou a fusão de dois caminhos de computação**»* — **tem de aumenta
 > ## **Uma pode ser desfeita. A outra não — e o universo cobra a diferença.**
 
 > ## **`[REGRA]`** **Isto não diz que o amor é uma força física.** Diz que **categorizar tem custo termodinâmico obrigatório e examinar não tem.** É menos do que se pediu. **E é verdade, que é mais.**
+
+---
+
+## As duas simbioses — e a confluência deixa de ser figura
+
+| simbiose | quem entra | o que traz | o que leva |
+|---|---|---|---|
+| **rizóbio** · **Döbereiner, 1963–69** | bactéria, no **nódulo** | ## **nitrogênio** — quebra a tripla ligação do `N₂` | **carbono** |
+| **micorriza** · **~450 Ma** | fungo, na **raiz** | ## **fósforo** — alcança **além da zona de depleção** | **carbono** |
+
+> # **`[CÁLCULO]`** **Dois reinos diferentes, dois nutrientes, a mesma raiz — e em ambas a planta paga em carbono.**
+>
+> ## **Em nenhuma há dono. É o inverso exato de `M7`, a delegação do custo: ali um lado examina e o outro cobra; aqui cada lado paga na moeda que tem.**
+>
+> ## **`[CÁLCULO]`** E a trava honesta: **`Karst, Jones e Hoeksema, 2023`** mediram **28 estudos de campo** e acharam **pouca ou nenhuma evidência** da rede micorrízica **como canal de comunicação entre árvores.** **A simbiose está medida. A conversa não.**
+>
+> # **O suporte e a mensagem caem separados** — e é a mesma lição do decreto de **Lima, 1583**, em [`REGISTRUM.md`](REGISTRUM.md).
 
 ---
 
